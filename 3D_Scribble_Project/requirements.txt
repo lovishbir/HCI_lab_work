@@ -1,0 +1,7 @@
+opencv-python
+torch
+torchvision
+matplotlib
+bpy
+SpeechRecognition
+pyaudio
